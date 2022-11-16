@@ -1,6 +1,7 @@
 img {
     border-radius:8px;
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 a.latnivalo {
     float: left;
@@ -25,5 +26,14 @@ p {
 }
 p.tuszkana {
     text-align: center;
+    font-weight: bold;
+
+}
+p.tuszkana1 {
+    text-align: left;
+    font-weight: bold;
+}
+h4 {
+    margin-left: 20px;
     font-weight: bold;
 }
