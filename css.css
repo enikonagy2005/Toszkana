@@ -3,20 +3,11 @@ img {
     max-width: 100%;
     height: auto;
 }
-a.latnivalo {
-    float: left;
-    margin-left: 250px;
-    margin-top: 30px;
-    font-weight: bold;
-}
-a.foldrajz {
-    float: left;
-    margin-left: 550px;
-    margin-top: 30px;
-    font-weight: bold;
-}
 h1 {
     text-align: center;
+    font-weight: bold;
+    color: white;
+    text-shadow: 4px 4px 6px;
 }
 .my-4 {
     text-align: center;
@@ -37,18 +28,6 @@ h4 {
     margin-left: 20px;
     font-weight: bold;
 }
-a.latnivalo {
-    text-decoration: none;
-    color :red;
-    font-size: large;
-    text-align: center;
-}
-a.foldrajz {
-    text-decoration: none;
-    color:red;
-    font-size: large;
-    text-align: center;
-}
 body  {
     background-image: url("images/toszkana_utazas.jpg");
     background-size: auto;
@@ -57,7 +36,18 @@ body  {
   }
 p.kek {
     margin-top: 30px;
+    color:cyan;
 }
 p {
-    color: white;
+    color: cyan;
+    text-shadow: 4px 4px 6px;
+}
+h2 {
+    font-weight: bold;
+    color: Green;
+    text-shadow: 4px 4px 6px;
+}
+p.piros {
+    color:cyan;
+    text-shadow: 4px 4px 6px;
 }
