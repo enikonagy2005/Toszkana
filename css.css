@@ -17,3 +17,13 @@ a.foldrajz {
 h1 {
     text-align: center;
 }
+.my-4 {
+    text-align: center;
+}
+p {
+    margin-left: 15px;
+}
+p.tuszkana {
+    text-align: center;
+    font-weight: bold;
+}
