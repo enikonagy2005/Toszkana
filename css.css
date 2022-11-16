@@ -37,3 +37,11 @@ h4 {
     margin-left: 20px;
     font-weight: bold;
 }
+a.latnivalo {
+    text-decoration: none;
+    color:green
+}
+a.foldrajz {
+    text-decoration: none;
+    color:red
+}
